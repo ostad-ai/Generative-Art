@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 #https://github.com/ostad-ai/Generative-Art
 #CSS colors in a dict with (name, rgb)
 css_colors={'aliceblue': (240, 248, 255),
