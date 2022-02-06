@@ -150,9 +150,3 @@ css_colors={'aliceblue': (240, 248, 255),
 # for name, color in css_colors.items():
 #     print(name,':',color,end='; ')
 
-
-# In[ ]:
-
-
-
-
